@@ -25,11 +25,13 @@ export default {
 
 <style scoped lang="scss">
 .header {
+  z-index: 100;
+  background: #fff;
   position: fixed;
   left: 0;
   top: 0;
   display: flex;
-  width: 100%;
+  width: 335.2px;
   height: 56px;
   justify-items: center;
   padding: 0 20px;
@@ -61,6 +63,7 @@ export default {
   left: 0;
   top: 56px;
   margin: 20px;
+   display: none;
 }
 .header_dis{
   line-height: 30px;
