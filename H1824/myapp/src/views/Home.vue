@@ -6,7 +6,7 @@
 
 <script>
 
-import Header from '../components/header'
+import Header from '../components/home/header'
 import Common from '../components/common.css'
 export default {
   name: 'home',

@@ -1,7 +1,7 @@
 <template>
   <div class="header">
     <div class="header_left">
-      <img src="../images/bg.png" alt>
+      <img src="../../images/bg.png" alt>
     </div>
     <div class="header_right">
       <span class="iconfont">&#xe606;</span>
